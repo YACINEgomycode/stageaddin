@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  stage:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2022-07-30T08:28:46.692905888-07:00"
+    description: A Helm chart for Kubernetes
+    digest: af9d377901beda1632e369b257b33d4c3094a6f00495ac94037252435c72fa09
+    name: stage
+    urls:
+    - stage-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-07-30T08:28:46.69105413-07:00"
